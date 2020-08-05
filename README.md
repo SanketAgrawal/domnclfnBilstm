@@ -1,4 +1,4 @@
-# A Robust Model for Domain Recognition of Acoustic Communication using Bi-directional LSTM and Deep Neural Network
+# A Robust Model for Domain Recognition of Acoustic Communication using Bi-LSTM and DNN
 
 ## Components:
   <ul>
