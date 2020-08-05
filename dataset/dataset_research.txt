@@ -1,0 +1,202 @@
+Establishing why your topic (X) is important
+Outlining the past-present history of the study of X 
+(no direct references to the literature)
+Outlining the possible future of X
+Indicating the gap in knowledge and possible limitations
+Stating the aim of your paper and its contribution
+Explaining the key terminology in your field
+Explaining how you will use terminology and acronyms in your paper
+Giving the structure of paper - what is and is not included
+Giving general panorama of past-to-present literature
+Reviewing past literature
+Reviewing subsequent and more recent literature
+Reporting what specific authors have said
+Mentioning positive aspects of others’ work
+Highlighting limitations of previous studies
+authors not mentioned by name
+Highlighting limitations of previous studies
+authors mentioned by name
+Using the opinions of others to justify 
+your criticism of someone’s work
+Describing purpose of testing / methods used
+Outlining similarities with other authors’ models, systems etc.
+Describing the apparatus and materials used and their source
+Reporting software used
+Reporting customizations performed
+Formulating equations, theories and theorems
+Explaining why you chose your specific method, 
+model, equipment, sample etc.
+Explaining the preparation of samples, solutions etc.
+Outlining selection procedure for samples, surveys etc.
+Indicating the time frame (past tenses)
+Indicating the time frame in a general process
+Indicating that care must be taken
+Describing benefits of your method, equipment
+Outlining alternative approaches
+Explaining how you got your results
+Reporting results from questionnaires and interviews
+Stating what you found
+Stating what you did not find
+Highlighting significant results and achievements
+Stating that your results confirm previous evidence
+Stating that your results are in contrast with previous evidence
+Stating and justifying the acceptability of your results
+Expressing caution regarding the interpretation of results
+Outlining undesired or unexpected results
+Admitting limitations
+Explaining and justifying undesired or unexpected results
+Minimizing undesired or unexpected results
+Expressing opinions and probabilities
+Announcing your conclusions and summarizing content
+Restating the results 
+(Conclusions section)
+Highlighting achievements 
+(Conclusions section)
+Highlighting limitations
+Outlining possible applications and implications of your work
+Future work already underway or planned by the authors
+Future work proposed for third parties to carry out
+Acknowledgements
+Referring to tables and figures, and to their implications
+In this paper we discuss learning about using methodologies 
+in a research project exploring social networks,
+We draw on the substantive and methodological experiences of 
+visual researchers and provide an of the ways in which 
+we discussed, 
+developed, and 
+reflected on the value and 
+possibilities of visual methods in our 
+data collection and analysis.
+We present the paper as a dialogue to represent how, 
+as a research team, we engaged in an on-going iterative
+Our dialogue considers visual data we collected through a walkaround method, 
+focusing on how these data contributed to our understanding of the field
+data analysis, the refinement of research questions, and theoretical development in the research.
+The history of qualitative research may be told by starting with the early ethnographic accounts
+by anthropologists such as Ruth Benedict, Bronislaw Malinowski, and Margaret Mead.
+Their accounts rely on both observational and interview data, as has qualitative research done
+since. Or it is started with reference to the “reformist movement” in the 70s as Schwandt does
+(2000). Starting in the 70s enlightens the importance of the awareness of ontology and epistemology
+in qualitative research.
+Come the new academic session, children
+will have to learn about contemporary developments such as Goods and Services
+Tax (GST), Demonetisation,Swacchhta, Beti Bachao-Beti
+Padhao Yojana and Cashless India in their schools.
+The National Council of Educational Research and
+Training (NCERT), under
+its current textbook review
+process, will start updating and making corrections and
+additions to 182 textbooks.
+The books are expected to have at least 1,334 changes.
+According to NCERT, updating will entail inclusion
+of revised statistics, economic and official data on
+happening in the country. The corrections, which will
+constitute 58% of the total changes to be made, will include
+rectifying spelling errors and simplifying the language
+in the books. Government schemes like demon
+Machine Learning (in the context of text analytics) 
+is a set of statistical techniques for identifying some aspect of text 
+(parts of speech, entities, sentiment, etc). The techniques can be expressed as a 
+model that is then applied to other text (supervised), or could be a 
+set of algorithms that work across large sets of data to extract meaning (unsupervised).
+Supervised Machine Learning
+Retrain model on larger/better dataset to get improved results. 
+This is the type of Machine Learning that Lexalytics uses. 
+This sort of “supervised” approach also applies to the sort of re-training 
+that can happen with some models where some viewer gives a “star” rating – 
+and the algorithm adds that rating to its ongoing processing.
+Some model types: 
+Support Vector Machines
+Bayesian Networks
+Maximum Entropy
+Conditional Random Field
+Neural Networks/Deep Learning
+Unsupervised Machine Learning
+These are statistical techniques to tease meaning training a model.  
+Clustering:  Groups “like” documents together into sets (clusters) of documents
+Latent Semantic Indexing
+A technique that allows you to “factor” down a very 
+using what are called “latent factors”. Latent factors are similarities between the items. 
+Think about it like this – if you see the word “throw” in a sentence,  
+natural ability to understand the factors
+This paper is to presents a laconic survey on Speech Recognition 
+along with the discussion of the major technological advances made 
+in the past years of research and also gives 
+techniques developed in each stage of 
+speech recognition. 
+After many years of research and development, 
+challenge remains is the accuracy of 
+automatic speaker, language and environment, vocabulary size, noise etc.
+The existing problems in ASR and the various techniques to solve these problems 
+given by various researchers have been presented 
+in this paper. The primary objective of this review paper is to summarize 
+and compare some of the popular methods used in various 
+stages of speech recognition using soft computing i.e. 
+Neural Network, Fuzzy logic and Genetic Algorithm.
+Speech is the fundamental, most effective way of communication in real time systems. 
+And the same would also be useful to interact 
+with machines. The research on speech has started in 18th century. 
+At that time people were experimenting with speech synthesis. 
+developed a machine capable of speaking words and phrases. 
+Lots of progress has been made in this area however 
+problems because speech is a very 
+subjective phenomenon.
+process of converting an acoustic signal, captured by a microphone or a telephone, 
+to a set of words. Recognition of isolated word is a fundamental application of speech recognition. 
+It is necessary to control machines or home appliances by voice
+To produce higher level of security most of the irreversible and
+reversible image steganography techniques stress 
+upon encrypting the secret image (payload) before embedding 
+it to the cover image. In this case the steganographic 
+system requires more computation time if a payload is large. 
+Therefore, technique that can have lower computation time, 
+higher embedding capacity and provoke same level of distortion, 
+as any state of art encryption technique, can enhance the 
+performance of stego systems. In this paper we propose a 
+payload distribution method for secure secret image sharing that 
+In the proposed scheme the payload is distributed over 
+sign map (SM), error factor (EF) and normalized error (NE) 
+The IEEE 
+Audio and Acoustic Signal Processing Technical Committee challenge 
+on Detection and Classiﬁcation of Acoustic Scenes and 
+Events (DCASE). In this paper, we report on the state of the art in 
+automatically classifying audio scenes, and automatically 
+detecting and classifying audio events. 
+We survey prior work as well as the state of the art represented by 
+the submissions to the challenge from various research groups
+We use a baseline method that employs Mel-frequency cepstral coefficients (MFCCs), 
+and a maximum likelihood criterion as a benchmark and only find 
+sufficient evidence to conclude that three algorithms 
+significantly outperform it. We also evaluate the human classification accuracy
+performing a similar classification task. 
+The best-performing algorithm achieves a mean accuracy that matches the 
+median accuracy obtained by humans, and common pairs 
+of classes are misclassified by both computers and humans. 
+individuals, while there are scenes that are misclassified by all algorithms.
+important features of speech that distinguish speech from noise.  
+we propose a method to maximally extract 
+these two features of enhancement. 
+We demonstrate that this can reduce the requirement for prior information about the noise, 
+which can be difﬁcult to estimate for fast-varying
+the new approach estimates clean speech by recognizing 
+long segments of the as whole units. In the recognition, clean speech sentences, taken from a 
+are used as examples. Matching segments are identiﬁed between the noisy sentence and the corpus
+temporal dynamics, subject to acoustic, lexical, and language constraints, 
+This paper presents a new method that aims to reduce 
+This paper presents effectively remove this requirement. 
+zero-mean normalized correlation coefﬁcient (ZNCC) as the comparison measure, and by extending 
+requiring speciﬁc knowledge
+how complex it really is. 
+into audible pulses. 
+This paper introduces situation recognition,the problem of producing a concise summary 
+machine learning system that operates at large scale and in heterogeneous environments. 
+dataﬂow graphs to represent computation, shared state, and 
+the operations that mutate that state. 
+It maps the nodes of a dataﬂow graph across many machines in a 
+cluster, and within a machine across multiple computational devices, 
+including multicore CPUs, generalpurpose GPUs, and custom-designed
+ASICs known as Tensor Processing Units (TPUs). 
+This architecture gives ﬂexibility to the application developer: 
+of shared state is built into the system, 
+TensorFlow enables developers to experiment with 
+novel optimizations and training algorithms. 
