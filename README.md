@@ -23,5 +23,3 @@
     <li>Paste the path at line no. 59 of utils.py</li>
 </ol>
 
- 
-Code for the above mentioned titled paper. The total size of pre-processed(tokennized and padded) dataset is more than 4 GB. So, for executing the notebook with less RAM and compute power we have provided a sample dataset.
